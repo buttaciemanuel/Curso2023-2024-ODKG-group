@@ -1,0 +1,58 @@
+{
+  "@context" : {
+    "hasUrl" : {
+      "@id" : "http://artwork.org/hasUrl"
+    },
+    "hasTitle" : {
+      "@id" : "http://artwork.org/hasTitle"
+    },
+    "Artwork" : {
+      "@id" : "http://artwork.org/Artwork"
+    },
+    "hasCreditLine" : {
+      "@id" : "http://artwork.org/hasCreditLine"
+    },
+    "hasArtistRole" : {
+      "@id" : "http://artwork.org/hasArtistRole"
+    },
+    "hasThumbnailCopyright" : {
+      "@id" : "http://artwork.org/hasThumbnailCopyright"
+    },
+    "madeInYear" : {
+      "@id" : "http://artwork.org/madeInYear"
+    },
+    "acquiredInYear" : {
+      "@id" : "http://artwork.org/acquiredInYear"
+    },
+    "hasAccessionNumber" : {
+      "@id" : "http://artwork.org/hasAccessionNumber"
+    },
+    "hasMedium" : {
+      "@id" : "http://artwork.org/hasMedium"
+    },
+    "hasThumbnailUrl" : {
+      "@id" : "http://artwork.org/hasThumbnailUrl"
+    },
+    "hasId" : {
+      "@id" : "http://artwork.org/hasId"
+    },
+    "hasWidth" : {
+      "@id" : "http://artwork.org/hasWidth"
+    },
+    "ArtworkDimension" : {
+      "@id" : "http://artwork.org/ArtworkDimension"
+    },
+    "hasHeight" : {
+      "@id" : "http://artwork.org/hasHeight"
+    },
+    "hasArtistId" : {
+      "@id" : "http://artwork.org/hasArtistId"
+    },
+    "hasArtist" : {
+      "@id" : "http://artwork.org/hasArtist"
+    },
+    "hasDimension" : {
+      "@id" : "http://artwork.org/hasDimension"
+    }
+  }
+}
